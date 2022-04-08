@@ -1,0 +1,17 @@
+CircularXX-Black.otf
+CircularXX-BlackItalic.otf
+CircularXX-Bold.otf
+CircularXX-BoldItalic.otf
+CircularXX-Book.otf
+CircularXX-BookItalic.otf
+CircularXX-ExtraBlack.otf
+CircularXX-ExtraBlackItalic.otf
+CircularXX-Italic.otf
+CircularXX-Light.otf
+CircularXX-LightItalic.otf
+CircularXX-Medium.otf
+CircularXX-MediumItalic.otf
+CircularXX-Regular.otf
+CircularXX-Thin.otf
+CircularXX-ThinItalic.otf
+filename.txt

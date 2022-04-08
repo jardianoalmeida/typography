@@ -1,0 +1,43 @@
+name: typography
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: CircularXX
+      fonts:
+        - asset: assets/fonts/CircularXX-Black.otf
+        - asset: assets/fonts/CircularXX-BlackItalic.otf
+        - asset: assets/fonts/CircularXX-Bold.otf
+        - asset: assets/fonts/CircularXX-BoldItalic.otf
+        - asset: assets/fonts/CircularXX-Book.otf
+        - asset: assets/fonts/CircularXX-BookItalic.otf
+        - asset: assets/fonts/CircularXX-ExtraBlack.otf
+        - asset: assets/fonts/CircularXX-ExtraBlackItalic.otf
+        - asset: assets/fonts/CircularXX-Italic.otf
+        - asset: assets/fonts/CircularXX-Light.otf
+        - asset: assets/fonts/CircularXX-LightItalic.otf
+        - asset: assets/fonts/CircularXX-Medium.otf
+        - asset: assets/fonts/CircularXX-MediumItalic.otf
+        - asset: assets/fonts/CircularXX-Regular.otf
+        - asset: assets/fonts/CircularXX-Thin.otf
+        - asset: assets/fonts/CircularXX-ThinItalic.otf
